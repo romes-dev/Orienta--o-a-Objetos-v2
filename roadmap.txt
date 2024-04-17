@@ -1,0 +1,13 @@
+Polimorfismo...
+
+Definição: É a habilidade de um método de realizar diferentes operações dependendo do objeto que invoca.
+
+-> O mesmo método pode ter comportamentos diferentes quando aplicado a objetos de diferentes classes.
+
+Tipos existentes: 
+1. Polimorfismo de Sobrecarga (Overloading) -> C++, Java
+# Ter várias funções com o mesmo nome, mas com diferentes parâmetros ou diferentes tipos de entrada.
+
+
+2. Polimorfismo de Substituição (Override) -> Python
+
