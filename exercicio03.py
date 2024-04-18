@@ -22,4 +22,7 @@ Desafio 2: Implemente um método para calcular o número total de participantes 
 Desafio 3: Implemente um método para que o usuário cadastre novos eventos nessa lista.
 
 Desafio 4: Implemente um método para calcular o número total de eventos de cada tipo (Palestra, Workshop, Conferencia e Show).
+
+Desafio 5: Crie um menu que exiba as opções para o usuário interagir com o sistema de gestão de eventos. Lembre-se de tratar possíveis erros de entrada do usuário.
+
 """
