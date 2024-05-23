@@ -1,0 +1,22 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": ["nome", "email", "idade"],
+    "properties": {
+      "nome": {
+        "bsonType": "string",
+        "description": "deve ser uma string e é obrigatório"
+      },
+      "email": {
+        "bsonType": "string",
+        "pattern": "^.+@.+$",
+        "description": "deve ser uma string no formato de email e é obrigatório"
+      },
+      "idade": {
+        "bsonType": "int",
+        "minimum": 0,
+        "description": "deve ser um inteiro não negativo e é obrigatório"
+      }
+    }
+  }
+}
